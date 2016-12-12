@@ -1,7 +1,8 @@
 # cultural-heritage-facerecognition
 Einsatz von Methoden der Künstlichen Intelligenz auf Objekte des digitalen kulturellen Erbes (Cultural Heritage).
 
-## 12/12/2016 – Planung für das Projekt: „Implementation einer Gesichtserkennung“
+## Projekt Fortschritte
+### 12/12/2016 – Planung für das Projekt: „Implementation einer Gesichtserkennung“
 In der bisherigen Zeit lag das Hauptaugenmerk darauf, dass sich jedes Gruppenmitglied mit OpenCV und eventuell anderen Frameworks vertraut macht. Hier gab es einige Probleme. Bereits die Installation bereitete uns teilweise Schwierigkeiten und es braucht auch weiterhin noch Einarbeitungszeit.
 Unsere nächsten Arbeitsschritte sind im genauen zeitlichen Ablauf noch in Planung, dennoch einige wichtige Punkte für die nächsten Tage und Wochen:
 - Erstellung einer Github-Website für einen besseren Überblick des Projekts zur nächsten Woche
